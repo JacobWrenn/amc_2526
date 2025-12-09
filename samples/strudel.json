@@ -5,6 +5,10 @@
   "musicbox": "jacob/note.wav",
   "pop": "jacob/unpitched.wav",
   "fan": "jacob/ambient.wav",
+  "eggcrack": "will/egg_cracking_short.wav",
+  "chickens": "will/ambient_chicken.wav",
+  "chickenbites": "will/chicken_bites.wav",
+  "gong": {"g3": "will/gong.wav"},
   "sheep": "Jack/sheep.wav",
   "thud": "Jack/thud.wav",
   "u_piano": "Jack/u_piano.wav",
@@ -14,7 +18,7 @@
     "cs4": "piano-miss-played/795602__vizaion__piano-c-octave-miss-played.wav"
   },
   "bash": "brett/ShortUnpitched.wav",
-  "lacemachine": "lacemachine/lacemachine_hh.wav"
-  "industry_mbience": "industry_ambient/industry_ambient.wav"
+  "lacemachine": "lacemachine/lacemachine_hh.wav",
+  "industry_mbience": "industry_ambient/industry_ambient.wav",
   "vizaion_pino": "vizaion_pino/vizaion__piano-c-2.wav"
 }
